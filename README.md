@@ -9,6 +9,6 @@ Immersed in Artificial Intelligence and 3D Animation, my focus lies in Generativ
 
 💬 Ask me about anything
 
-📄 Know about my experiences at https://linkedin.com/in/michelledsouza024
+📄 Know about my experiences at <a href="https://linkedin.com/in/michelledsouza024" target="blank">
 
 📫 Reach out to me at elledsouza024@gmail.com
