@@ -7,7 +7,7 @@ Immersed in Artificial Intelligence and 3D Animation, my focus lies in Generativ
 
 🌱 I’m learning to be myself
 
-💬 Ask me about anything
+💬 Ask me about AI
 
 📄 Know about my experiences at <a href="https://linkedin.com/in/michelledsouza024" target="_blank">michelledsouza024</a>
 
